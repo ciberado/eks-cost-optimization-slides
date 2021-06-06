@@ -1,0 +1,99 @@
+body {
+    font-size: 32pt;
+}
+
+.slidedeck section {
+    background-color: white;
+}
+
+.slidedeck section h1 {
+	font-size: 80pt;
+}
+
+.slidedeck section h2 {
+	font-size: 60pt;
+}
+
+.slidedeck section h1 > span,
+.slidedeck section h2 > span {
+    background-color: black;
+    color : #fdfdfd;
+}
+
+.slidedeck section.title-lf-up h1,
+.slidedeck section.title-lf-up h2 {
+	max-width: 40%;
+	position: absolute;
+	top: 5%;
+}
+
+.slidedeck section.title-ri-up h1,
+.slidedeck section.title-ri-up h2 {
+	max-width: 40%;
+	position: absolute;
+    right: 0;
+	top: 5%;
+    text-align: right;
+}
+
+
+.slidedeck section.title-ri-dn h1,
+.slidedeck section.title-ri-dn h2 {
+	max-width: 40%;
+	position: absolute;
+    right: 0;
+	bottom: 5%;
+    text-align: right;
+}
+
+.slidedeck section.title-lf-dn h1,
+.slidedeck section.title-lf-dn h2 {
+	max-width: 40%;
+	position: absolute;
+	bottom: 5%;
+}
+
+.slidedeck section.bgpic p > img {
+	position: absolute;
+	margin: 0;
+	top: 0;
+	width: 100%;
+	z-index: -10;
+	height: 100%;
+	object-fit: cover;
+}
+
+.slidedeck section.flipped-x img {
+    transform: scaleX(-1);
+}
+
+/* Figures with title + chart ********************************************/
+
+.slidedeck section.figure h2 {
+    text-align: center;
+}
+
+.slidedeck section.figure p {
+    text-align: center;
+}
+
+.slidedeck section.figure p > img {
+    max-height: 600px;
+}
+
+/* Table *****************************************************************/
+
+.slidedeck section table {
+    margin-top: 40px;
+    width: 60%;
+    margin: 0 auto;
+    padding: 1em;
+    background-color: #f0f0f0;
+}
+
+.slidedeck section table tbody::before {
+  content: '';
+  display: block;
+  height: 45px;
+
+}
