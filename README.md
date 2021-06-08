@@ -150,7 +150,7 @@
 
 [](.bgpic.title-lf-up)
 
-## How much does a dev/ops costs?
+## What is the price of a dev/ops?
 
 ![Damiano Maneskin in anger](damiano-non-uso.jpg)
 
