@@ -20,6 +20,13 @@ body {
     color : #fdfdfd;
 }
 
+.slidedeck section.title-cn-up h1,
+.slidedeck section.title-cn-up h2 {
+	text-align: center;
+	width: 100%;
+	margin: 0;
+}
+
 .slidedeck section.title-lf-up h1,
 .slidedeck section.title-lf-up h2 {
 	max-width: 40%;
