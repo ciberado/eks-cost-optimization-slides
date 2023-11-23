@@ -57,8 +57,8 @@ https://www.pexels.com/es-es/foto/madera-hombre-gente-mujer-7080463/
 
 |                  | c5a.xlarge  | t3a.large  |
 | -----------------|:-----------:|:----------:|
-| **CPUs**         |           4 |          2 |
 | **GB of RAM**    |           8 |          8 |
+| **CPUs**         |           4 |          2 |
 | **Number of instances**  |  10 |         20 |
 
 
@@ -160,6 +160,19 @@ No worries: someone from AWS appears a tells you: commit to one-to-three years o
 a wonderful discount.
 
 Photo by [Mikhail Nilov, on pexels](https://www.pexels.com/photo/woman-in-corporate-attire-holding-a-home-insurance-policy-7736070/)
+
+:::
+
+[](.figure)
+
+![Children playing with a toiled paper roll](pexels-elina-fairytale-4008799.jpg)
+
+::: Notes
+
+AWS invoices can be very complex, but it is important to understand how they
+work to make sense of the discount options.
+
+Photography by [Elina Fairytale](https://www.pexels.com/photo/two-boys-playing-with-toilet-paper-rolls-4008799/).
 
 :::
 

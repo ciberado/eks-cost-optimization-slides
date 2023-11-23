@@ -110,11 +110,29 @@ body {
     margin: 0 auto;
     padding: 1em;
     background-color: #f0f0f0;
+	border-radius: 12px;
+}
+
+.slidedeck section table thead {
+	font-size: 1.5em;
 }
 
 .slidedeck section table tbody::before {
   content: '';
   display: block;
   height: 45px;
+}
 
+.slidedeck section table th:nth-of-type(2) {
+	background: #9aabd9;
+	padding: 12px;
+}
+
+.slidedeck section table th:nth-of-type(3) {
+	background: #a9d18e;
+	padding: 12px;
+}
+
+.slidedeck section table tr:nth-of-type(2) {
+	background-color:  #fdfdfd;
 }
