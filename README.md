@@ -6,8 +6,8 @@
 
 ::: Notes
 
-> Photo by Karolina Grabowska from Pexels
-> https://www.pexels.com/photo/roll-of-american-dollar-banknotes-tightened-with-band-4386476/
+Photo by Karolina Grabowska from Pexels
+https://www.pexels.com/photo/roll-of-american-dollar-banknotes-tightened-with-band-4386476/
 
 :::
 
@@ -19,7 +19,7 @@
 
 ::: Notes
 
->  Foto de Andrea Piacquadio en Pexels
+ Foto de Andrea Piacquadio en Pexels
 
 :::
 
@@ -31,8 +31,8 @@
 
 ::: Notes
 
-> Foto de Pok Rie en Pexels
-> https://www.pexels.com/photo/dell-motherboard-and-central-processing-unit-1432675/
+Foto de Pok Rie en Pexels
+https://www.pexels.com/photo/dell-motherboard-and-central-processing-unit-1432675/
 
 :::
 
@@ -44,8 +44,8 @@
 
 ::: Notes
 
-> Foto de RODNAE Productions en Pexels
-> https://www.pexels.com/es-es/foto/madera-hombre-gente-mujer-7080463/
+Foto de RODNAE Productions en Pexels
+https://www.pexels.com/es-es/foto/madera-hombre-gente-mujer-7080463/
 
 :::
 
@@ -64,10 +64,10 @@
 
 ::: Notes
 
-> Comment we will have two times more ram with the second option
-> t3 is a bursting instance
-> Photo by Jay Johnson from Pexels
-> https://www.pexels.com/photo/snow-wood-light-people-6414384/
+Comment we will have two times more ram with the second option
+t3 is a bursting instance
+Photo by Jay Johnson from Pexels
+https://www.pexels.com/photo/snow-wood-light-people-6414384/
 
 :::
 
@@ -77,9 +77,9 @@
 
 ::: Notes
 
-> Let's say you arrive to the desert and then the photosession starts. You enjoy it deeply, how many cool things are you going to create today.
-> 
-> These series of photos are made by Cottonbro, available on [pexels](https://www.pexels.com/photo/woman-standing-on-top-of-white-chair-5836335/)
+Let's say you arrive to the desert and then the photosession starts. You enjoy it deeply, how many cool things are you going to create today.
+
+These series of photos are made by Cottonbro, available on [pexels](https://www.pexels.com/photo/woman-standing-on-top-of-white-chair-5836335/)
 
 :::
 
@@ -89,7 +89,7 @@
 
 ::: Notes
 
-> After two hours under the Sun, it doesn't feel so exciting anymore
+After two hours under the Sun, it doesn't feel so exciting anymore
 
 :::
 
@@ -99,7 +99,7 @@
 
 ::: Notes
 
-> And by the end of the session you just want to kill yourself, exhausted and thirsty
+And by the end of the session you just want to kill yourself, exhausted and thirsty
 
 :::
 
@@ -111,8 +111,8 @@
 
 ::: Notes
 
-> Now a cloud provider appears and shows you a super fresh glass of lemonade and tells you: this is what you
-> are going to pay me for being happy. That is on-demand price.
+Now a cloud provider appears and shows you a super fresh glass of lemonade and tells you: this is what you
+are going to pay me for being happy. That is on-demand price.
 
 :::
 
@@ -124,7 +124,7 @@
 
 ::: Notes
 
-> Approximately $15K per year
+Approximately $15K per year
 
 :::
 
@@ -134,7 +134,7 @@
 
 ::: Notes
 
-> Your customer is surprised. You feel surprised, too, probably. But this is only for one cluster.
+Your customer is surprised. You feel surprised, too, probably. But this is only for one cluster.
 
 :::
 
@@ -146,7 +146,7 @@
 
 ::: Notes
 
-> And you have three environments, and you want to keep them on separate clusters. And it is more like $45K per year.
+And you have three environments, and you want to keep them on separate clusters. And it is more like $45K per year.
 
 :::
 
@@ -156,10 +156,10 @@
 
 ::: Notes
 
-> No worries: someone from AWS appears a tells you: commit to one-to-three years of resource/money usage and you will get
-> a wonderful discount.
-> 
-> Photo by [Mikhail Nilov, on pexels](https://www.pexels.com/photo/woman-in-corporate-attire-holding-a-home-insurance-policy-7736070/)
+No worries: someone from AWS appears a tells you: commit to one-to-three years of resource/money usage and you will get
+a wonderful discount.
+
+Photo by [Mikhail Nilov, on pexels](https://www.pexels.com/photo/woman-in-corporate-attire-holding-a-home-insurance-policy-7736070/)
 
 :::
 
@@ -171,7 +171,7 @@
 
 ::: Notes
 
-> 26-28% savings
+26-28% savings
 
 :::
 
@@ -183,13 +183,13 @@
 
 ::: Notes
 
-> 37-40% savings
-> 
-> Saving plans are reservations 3.0. The original reservations where focused in commitment to particular
-> resource types. Saving plans are oriented to commitment of spent, much more flexible and logical.
-> 
-> With EC2 Instance Savings Plans you specify the family, for maximum discount.
-> With AWS Compute Savings Plans you just set an amount of money that is shared between EC2, Fargate and Lambda
+37-40% savings
+
+Saving plans are reservations 3.0. The original reservations where focused in commitment to particular
+resource types. Saving plans are oriented to commitment of spent, much more flexible and logical.
+
+With EC2 Instance Savings Plans you specify the family, for maximum discount.
+With AWS Compute Savings Plans you just set an amount of money that is shared between EC2, Fargate and Lambda
 
 :::
 
@@ -201,11 +201,11 @@
 
 ::: Notes
 
-> It is possible to pay for the saving plan each month,or give away all the money in advance.
-> As it can be seen in the following diagram, it doesn't make too much sense as the additional savings
-> are small.
-> 
-> Photo by [Sharon McCutcheon](https://unsplash.com/photos/-8a5eJ1-mmQ)
+It is possible to pay for the saving plan each month,or give away all the money in advance.
+As it can be seen in the following diagram, it doesn't make too much sense as the additional savings
+are small.
+
+Photo by [Sharon McCutcheon](https://unsplash.com/photos/-8a5eJ1-mmQ)
 
 :::
 
@@ -217,7 +217,7 @@
 
 ::: Notes
 
-> 41-44% savings
+41-44% savings
 
 :::
 
@@ -229,10 +229,10 @@
 
 ::: Notes
 
-> A woman from AWS appears to you in the middle of the ir data center and says 
-> "look, I've plenty of VMs. Borrow them for a fair price."
-> 
-> Photo by [WinSon](https://www.pexels.com/photo/person-sitting-on-ground-between-brown-cardboard-boxes-2701434/)
+A woman from AWS appears to you in the middle of the ir data center and says 
+"look, I've plenty of VMs. Borrow them for a fair price."
+
+Photo by [WinSon](https://www.pexels.com/photo/person-sitting-on-ground-between-brown-cardboard-boxes-2701434/)
 
 :::
 
@@ -242,9 +242,9 @@
 
 ::: Notes
 
-> Spot instances are not related to any bidding. They are very stable, the fluctuating price changes per AZ,
-> it is very easy to blend different types on the same autoscaling group and in general they are a very safe
-> option for many scenarios with a hugh discount. 
+Spot instances are not related to any bidding. They are very stable, the fluctuating price changes per AZ,
+it is very easy to blend different types on the same autoscaling group and in general they are a very safe
+option for many scenarios with a hugh discount. 
 
 :::
 
@@ -254,12 +254,12 @@
 
 ::: Notes
 
-> Most workloads on Kubernetes should be stateless, unless you have taken very bad decisions in your life.
-> That is what happens with the replica set of the lower line: one of their pods has been eliminated, but that
-> is not a problem by design.
-> The exception are the databases that are being run inside your cluster, because you love danger situations.
-> You can see one of them in the photo, painted in red. Well, taints and tolerations can be used to send those
-> pods to a nodegroup composed of regular instances, instead of spot ones.
+Most workloads on Kubernetes should be stateless, unless you have taken very bad decisions in your life.
+That is what happens with the replica set of the lower line: one of their pods has been eliminated, but that
+is not a problem by design.
+The exception are the databases that are being run inside your cluster, because you love danger situations.
+You can see one of them in the photo, painted in red. Well, taints and tolerations can be used to send those
+pods to a nodegroup composed of regular instances, instead of spot ones.
 
 :::
 
@@ -269,9 +269,9 @@
 
 ::: Notes
 
-> And remember: all of this without commitments. Free yourself from that contract. Use spot instances.
+And remember: all of this without commitments. Free yourself from that contract. Use spot instances.
 >
-> Photo by [Ketut Subiyanto](https://www.pexels.com/photo/african-american-man-throwing-paper-sheets-up-in-park-4560086/)
+Photo by [Ketut Subiyanto](https://www.pexels.com/photo/african-american-man-throwing-paper-sheets-up-in-park-4560086/)
 
 :::
 
@@ -281,7 +281,7 @@
 
 ::: Notes
 
-> Skyscanner is [deploying 100% of their capacity using spot instances](https://aws.amazon.com/blogs/aws/capacity-optimized-spot-instance-allocation-in-action-at-mobileye-and-skyscanner/), including production.
+Skyscanner is [deploying 100% of their capacity using spot instances](https://aws.amazon.com/blogs/aws/capacity-optimized-spot-instance-allocation-in-action-at-mobileye-and-skyscanner/), including production.
 
 :::
 
@@ -293,7 +293,7 @@
 
 ::: Notes
 
-> 60-72% savings
+60-72% savings
 
 :::
 
@@ -303,9 +303,9 @@
 
 ::: Notes
 
-> What did your grandmother said? "Kid, turn off the lights!!!". Always follow her advice.
-> 
-> Photo by [Edu Carvalho](https://www.pexels.com/photo/woman-wearing-brown-overall-2050999/)
+What did your grandmother said? "Kid, turn off the lights!!!". Always follow her advice.
+
+Photo by [Edu Carvalho](https://www.pexels.com/photo/woman-wearing-brown-overall-2050999/)
 
 :::
 
@@ -317,8 +317,8 @@
 
 ::: Notes
 
-> Working for 16 hours each day from Monday to Friday
-> 81-86% savings
+Working for 16 hours each day from Monday to Friday
+81-86% savings
 
 :::
 
@@ -328,10 +328,10 @@
 
 ::: Notes
 
-> Not all your clusters require the same capacity. It is pretty clear that a dev environment can
-> be much smaller than the production one.
+Not all your clusters require the same capacity. It is pretty clear that a dev environment can
+be much smaller than the production one.
 >
-> Photo by [Elviss Railijs](https://www.pexels.com/photo/green-and-teal-bus-1210622/)
+Photo by [Elviss Railijs](https://www.pexels.com/photo/green-and-teal-bus-1210622/)
 
 :::
 
@@ -343,7 +343,7 @@
 
 ::: Notes
 
-> 94-96% savings expecting a 30% average capacity
+94-96% savings expecting a 30% average capacity
 
 :::
 
@@ -353,9 +353,9 @@
 
 ::: Notes
 
-> Ok, we are almost done. Just keep up with your attention for a few minutes.
-> 
-> Photo by [Andrea Piacquadio](https://www.pexels.com/photo/woman-leaning-on-table-3767411/)
+Ok, we are almost done. Just keep up with your attention for a few minutes.
+
+Photo by [Andrea Piacquadio](https://www.pexels.com/photo/woman-leaning-on-table-3767411/)
 
 :::
 
@@ -367,8 +367,8 @@
 
 ::: Notes
 
-> 72-74% savings without any risk derived from spot market
-> With full spot adoption savings goes to 78-84%!
+72-74% savings without any risk derived from spot market
+With full spot adoption savings goes to 78-84%!
 
 :::
 
@@ -382,9 +382,9 @@
 
 ::: Notes
 
-> Uff, ok. Good work.
-> 
-> Photo by [Zichuan Han](https://www.pexels.com/photo/photo-of-fireworks-display-during-evening-3428289/)
+Uff, ok. Good work.
+
+Photo by [Zichuan Han](https://www.pexels.com/photo/photo-of-fireworks-display-during-evening-3428289/)
 
 :::
 
@@ -396,9 +396,9 @@
 
 ::: Notes
 
-> 73 dollars per month and cluster ($876 per year and cluster)
+73 dollars per month and cluster ($876 per year and cluster)
 >
-> Photo by pixabay on pexels
+Photo by pixabay on pexels
 
 :::
 
@@ -410,9 +410,9 @@
 
 ::: Notes
 
-> EBS: $1.2 per GB and year
+EBS: $1.2 per GB and year
 >
-> Photo by Skyler Erwing on Pexels https://www.pexels.com/@skyler-ewing-266953
+Photo by Skyler Erwing on Pexels https://www.pexels.com/@skyler-ewing-266953
 
 :::
 
@@ -424,7 +424,7 @@
 
 ::: Notes
 
-> Photo by [Mark Glancy](https://www.pexels.com/photo/boston-terrier-wearing-unicorn-pet-costume-1564506/)
+Photo by [Mark Glancy](https://www.pexels.com/photo/boston-terrier-wearing-unicorn-pet-costume-1564506/)
 
 :::
 
@@ -436,7 +436,7 @@
 
 ::: Notes
 
-> Sergio garcia: https://www.linkedin.com/in/sergiogarciagil85/
-> Javi Moreno: https://twitter.com/ciberado/
+Sergio garcia: https://www.linkedin.com/in/sergiogarciagil85/
+Javi Moreno: https://twitter.com/ciberado/
 
 :::

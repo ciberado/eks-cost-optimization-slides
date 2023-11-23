@@ -41,6 +41,7 @@ body {
     right: 0;
 	top: 5%;
     text-align: right;
+	z-index: 20;
 }
 
 
@@ -60,13 +61,18 @@ body {
 	bottom: 5%;
 }
 
-.slidedeck section.bgpic p > img {
+.slidedeck section.bgpic > div.block-image {
+	display : block;
 	position: absolute;
 	margin: 0;
 	top: 0;
 	width: 100%;
 	z-index: -10;
 	height: 100%;
+}
+
+.slidedeck section.bgpic > div.block-image > img {
+	width: 100%;
 	object-fit: cover;
 }
 
@@ -80,12 +86,13 @@ body {
     text-align: center;
 }
 
-.slidedeck section.figure p {
+.slidedeck section.figure div.block-image {
     text-align: center;
+    height: 800px;
 }
 
-.slidedeck section.figure p > img {
-    max-height: 600px;
+.slidedeck section.figure div.block-image > img {
+	height: 100%;
 }
 
 /* Table *****************************************************************/
