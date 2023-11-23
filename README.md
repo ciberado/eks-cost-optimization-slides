@@ -49,7 +49,7 @@ https://www.pexels.com/es-es/foto/madera-hombre-gente-mujer-7080463/
 
 :::
 
-[](.bgpic.flipped-x)
+[](.bgpic.flipped-x.title-cn-up)
 
 ## Weapons of choice
 
@@ -248,6 +248,20 @@ option for many scenarios with a hugh discount.
 
 :::
 
+[](.bgpic.title-lf-up)
+
+![Burning kitchen](burning-kitchen.jpg)
+
+::: Notes
+
+Previously, it was necessary to install an agent on each node for handling spot capacity interruptions.
+This is not needed anymore, thanks to the [ASG autoscaling capacity](https://ec2spotworkshops.com/using_ec2_spot_instances_with_eks/040_eksmanagednodegroupswithspot/spotlifecycle.html#interruption-handling-in-eks-managed-node-groups-with-spot-capacity). In a [managed group](https://ec2spotworkshops.com/using_ec2_spot_instances_with_eks/040_eksmanagednodegroupswithspot/workers_terraform.html), the ASG will automatically optimize the
+node group for maintaining the workload capacity.
+
+:::
+
+## Managed group capacity rebalancing
+
 [](.bgpic)
 
 ![Space invaders screen](space-invaders.jpg)
@@ -430,9 +444,9 @@ Photo by [Mark Glancy](https://www.pexels.com/photo/boston-terrier-wearing-unico
 
 [](.bgpic.title-cn-up)
 
-![Sergio and Javi](javi-and-sergio-card.png)
+![Javi profile](javi-profile.png)
 
-## THANKS
+## Thank you so much!
 
 ::: Notes
 
