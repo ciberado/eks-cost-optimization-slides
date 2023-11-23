@@ -320,6 +320,8 @@ option for many scenarios with a hugh discount.
 
 [](.bgpic.title-lf-up)
 
+## Managed group capacity rebalancing
+
 ![Burning kitchen](burning-kitchen.jpg)
 
 ::: Notes
@@ -329,8 +331,6 @@ This is not needed anymore, thanks to the [ASG autoscaling capacity](https://ec2
 node group for maintaining the workload capacity.
 
 :::
-
-## Managed group capacity rebalancing
 
 [](.bgpic)
 
