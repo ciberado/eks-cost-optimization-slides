@@ -163,7 +163,7 @@ Photo by [Mikhail Nilov, on pexels](https://www.pexels.com/photo/woman-in-corpor
 
 :::
 
-[](.figure)
+[](.bgpic)
 
 ![Children playing with a toiled paper roll](pexels-elina-fairytale-4008799.jpg)
 
@@ -176,6 +176,49 @@ Photography by [Elina Fairytale](https://www.pexels.com/photo/two-boys-playing-w
 
 :::
 
+[]()
+
+## Usage bar diagram
+
+![A bar diagram with EC2 instance usage](reservations-1.png)
+
+::: Notes
+
+This is a (tiny) part of the bar graph created by grouping the concepts
+of the invoice, and filtering by instance type.
+
+:::
+
+[]()
+
+## Reservation allocation
+
+![A bar diagram with EC2 instance reservations applied](reservations-2.png)
+
+::: Notes
+
+We decide to go with four reservations for the blue instance, two for
+the orange, and zero for the yellow one (as it usage is sparse).
+
+As we can see, we don't always get a discount for all our instance/hour,
+as there are moments in which we have more instances that reservations.
+
+:::
+
+[]()
+
+## Reservation waste
+
+![A bar diagram with reservation waste](reservations-3.png)
+
+::: Notes
+
+But that is not all: we also waste some reservations, because we don't
+have a regular usage of the instance (yellow case), or we have less instances
+of a type in a given moment that the reservations made.
+
+:::
+
 [](.figure)
 
 ## Reservations
@@ -185,6 +228,20 @@ Photography by [Elina Fairytale](https://www.pexels.com/photo/two-boys-playing-w
 ::: Notes
 
 26-28% savings
+
+:::
+
+[](.bgpic)
+
+![Scrooge Mickey picture](scrooge_mickey_s_christmas_carol_by_kenny_boy_dcu6u6g.jpg)
+
+::: Notes
+
+In any case, Reservations Plans provide an alternative discount method with a much
+more simple approach: commitment to spend money. The granularity is still per
+hour, so it is not as straightforward as it looks like.
+
+Picture by [Kenny Boy](https://www.deviantart.com/kenny-boy/art/Scrooge-Mickey-s-Christmas-Carol-776301640)
 
 :::
 
