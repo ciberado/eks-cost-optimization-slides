@@ -156,7 +156,7 @@ And you have three environments, and you want to keep them on separate clusters.
 
 ::: Notes
 
-No worries: someone from AWS appears a tells you: commit to one-to-three years of resource/money usage and you will get
+No worries: someone from AWS appears and tells you: commit to one-to-three years of resource/money usage and you will get
 a wonderful discount.
 
 Photo by [Mikhail Nilov, on pexels](https://www.pexels.com/photo/woman-in-corporate-attire-holding-a-home-insurance-policy-7736070/)
